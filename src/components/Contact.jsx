@@ -71,18 +71,18 @@ const Contact = () => {
               <p>
                 📸 <strong>Instagram:</strong>{' '}
                 <a
-                  href="https://instagram.com/fasna-pi"
+                  href="https://www.instagram.com/fazna__zaan?igsh=MTdsc2xtZ2NodHVxcQ=="
                   target="_blank"
                   rel="noreferrer"
                   style={{ color: '#f97316', textDecoration: 'none' }}
                 >
-                  @fasna-pi
+                  @fazna__zaan
                 </a>
               </p>
               <p>
                 💼 <strong>LinkedIn:</strong>{' '}
                 <a
-                  href="https://linkedin.com/in/fasna-p-87bba22a4"
+                  href="http://linkedin.com/in/fasna-p-87bba22a4"
                   target="_blank"
                   rel="noreferrer"
                   style={{ color: '#f97316', textDecoration: 'none' }}
