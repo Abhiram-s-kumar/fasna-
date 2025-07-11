@@ -50,7 +50,7 @@ const Hero = () => {
                 marginBottom: '20px',
               }}
             >
-              Instagram Reels Editor & Video Creator
+              Editor & Video Creator
             </h2>
             <p style={{ fontSize: '1rem', color: '#555' }}>
               I create impactful, trendy short-form video content that resonates and engages audiences.
