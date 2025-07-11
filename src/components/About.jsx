@@ -50,7 +50,7 @@ const About = () => {
                 lineHeight: '1.9',
               }}
             >
-              I’m <strong>Fasna</strong>, a passionate <strong>Instagram Reels Editor</strong> with a flair for crafting visually engaging short-form videos. My edits are sharp, trendy, and built to capture attention — from clean transitions and synced audio to viral trends and emotional cuts. I work with tools like <strong>CapCut</strong>, <strong>InShot</strong>, and Instagram-native features to bring creative visions to life and help brands and creators shine on social media.
+              I’m <strong>Fasna</strong>, a passionate <strong>Editor</strong> with a flair for crafting visually engaging short-form videos. My edits are sharp, trendy, and built to capture attention — from clean transitions and synced audio to viral trends and emotional cuts. I work with tools like <strong>CapCut</strong>, <strong>InShot</strong>, and Native features to bring creative visions to life and help brands and creators shine on social media.
             </p>
           </Col>
         </Row>
